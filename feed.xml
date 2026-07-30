@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Rabbi Paysach Krohn</title>
     <description>Torah shiurim by Rabbi Paysach Krohn - Otzar HaTorah</description>
@@ -10,130 +10,22 @@
       <itunes:name>Rabbi Paysach Krohn</itunes:name>
       <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/krohn/portada.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:image href="https://rabmeireliyahu.github.io/krohn/portada.jpg" />
+    <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>CHAZAQ Shiur with Rav Avraham Schorr on ＂Everyone Can Improve Thru the Honey Sweet Torah＂</title>
-      <description>CHAZAQ Shiur with Rav Avraham Schorr on ＂Everyone Can Improve Thru the Honey Sweet Torah＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Shiur%20with%20Rav%20Avraham%20Schorr%20on%20%EF%BC%82Everyone%20Can%20Improve%20Thru%20the%20Honey%20Sweet%20Torah%EF%BC%82.mp3" length="23276973" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Shiur with Rav Avraham Schorr on ＂Everyone Can Improve Thru the Honey Sweet Torah＂.mp3</guid>
-      <pubDate>Sun, 19 May 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:24:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ Shiur with Rav Mordechai Finkelman on ＂The Fountain of Youth＂</title>
-      <description>CHAZAQ Shiur with Rav Mordechai Finkelman on ＂The Fountain of Youth＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Shiur%20with%20Rav%20Mordechai%20Finkelman%20on%20%EF%BC%82The%20Fountain%20of%20Youth%EF%BC%82.mp3" length="50805165" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Shiur with Rav Mordechai Finkelman on ＂The Fountain of Youth＂.mp3</guid>
-      <pubDate>Mon, 20 May 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:52:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rav Yitzchak Yosef on ＂The Importance of Learning Halacha＂</title>
-      <description>Rav Yitzchak Yosef on ＂The Importance of Learning Halacha＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rav%20Yitzchak%20Yosef%20on%20%EF%BC%82The%20Importance%20of%20Learning%20Halacha%EF%BC%82.mp3" length="77311533" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rav Yitzchak Yosef on ＂The Importance of Learning Halacha＂.mp3</guid>
-      <pubDate>Sun, 23 Jun 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>01:20:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Michael Gitik speaking for CHAZAQ on ＂How to Buy a Ticket to the Next World＂ Lecture in Russian!</title>
-      <description>R' Michael Gitik speaking for CHAZAQ on ＂How to Buy a Ticket to the Next World＂ Lecture in Russian!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Michael%20Gitik%20speaking%20for%20CHAZAQ%20on%20%EF%BC%82How%20to%20Buy%20a%20Ticket%20to%20the%20Next%20World%EF%BC%82%20Lecture%20in%20Russian%21.mp3" length="97635117" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Michael Gitik speaking for CHAZAQ on ＂How to Buy a Ticket to the Next World＂ Lecture in Russian!.mp3</guid>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>01:41:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ event with Charlie Harary on ＂The Power of Words＂ June⧸30⧸13</title>
-      <description>CHAZAQ event with Charlie Harary on ＂The Power of Words＂ June⧸30⧸13</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20event%20with%20Charlie%20Harary%20on%20%EF%BC%82The%20Power%20of%20Words%EF%BC%82%20June%E2%A7%B830%E2%A7%B813.mp3" length="46646445" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ event with Charlie Harary on ＂The Power of Words＂ June⧸30⧸13.mp3</guid>
-      <pubDate>Wed, 17 Jul 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:48:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
     <item>
       <title>CHAZAQ lecture with R' Paysach Krohn on ＂Rebuilding the Mikdash Within＂</title>
       <description>CHAZAQ lecture with R' Paysach Krohn on ＂Rebuilding the Mikdash Within＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20lecture%20with%20R%27%20Paysach%20Krohn%20on%20%EF%BC%82Rebuilding%20the%20Mikdash%20Within%EF%BC%82.mp3" length="63093549" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20lecture%20with%20R%27%20Paysach%20Krohn%20on%20%EF%BC%82Rebuilding%20the%20Mikdash%20Within%EF%BC%82.mp3" length="63093549" type="audio/mpeg" />
       <guid isPermaLink="false">CHAZAQ lecture with R' Paysach Krohn on ＂Rebuilding the Mikdash Within＂.mp3</guid>
       <pubDate>Wed, 17 Jul 2013 00:00:00 -0000</pubDate>
       <itunes:duration>01:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>CHAZAQ Event with R' Jonathan Rietti on ＂Dating and Marrage＂</title>
-      <description>CHAZAQ Event with R' Jonathan Rietti on ＂Dating and Marrage＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20with%20R%27%20Jonathan%20Rietti%20on%20%EF%BC%82Dating%20and%20Marrage%EF%BC%82.mp3" length="63756890" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Event with R' Jonathan Rietti on ＂Dating and Marrage＂.mp3</guid>
-      <pubDate>Tue, 23 Jul 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>01:06:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ event with Rabbi Fischel Schachter on ＂Improving Ourselves in a Deteriorating World＂</title>
-      <description>CHAZAQ event with Rabbi Fischel Schachter on ＂Improving Ourselves in a Deteriorating World＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20event%20with%20Rabbi%20Fischel%20Schachter%20on%20%EF%BC%82Improving%20Ourselves%20in%20a%20Deteriorating%20World%EF%BC%82.mp3" length="46800429" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ event with Rabbi Fischel Schachter on ＂Improving Ourselves in a Deteriorating World＂.mp3</guid>
-      <pubDate>Tue, 27 Aug 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:48:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ event with Charlie Harary on ＂Being Great＂ August⧸14⧸13</title>
-      <description>CHAZAQ event with Charlie Harary on ＂Being Great＂ August⧸14⧸13</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20event%20with%20Charlie%20Harary%20on%20%EF%BC%82Being%20Great%EF%BC%82%20August%E2%A7%B814%E2%A7%B813.mp3" length="57986128" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ event with Charlie Harary on ＂Being Great＂ August⧸14⧸13.mp3</guid>
-      <pubDate>Mon, 09 Sep 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Mr. Charlie Harary on ＂Becoming the Best Person You Can Be＂ Sep⧸29⧸13</title>
-      <description>Mr. Charlie Harary on ＂Becoming the Best Person You Can Be＂ Sep⧸29⧸13</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Mr.%20Charlie%20Harary%20on%20%EF%BC%82Becoming%20the%20Best%20Person%20You%20Can%20Be%EF%BC%82%20Sep%E2%A7%B829%E2%A7%B813.mp3" length="52497837" type="audio/mpeg"/>
-      <guid isPermaLink="false">Mr. Charlie Harary on ＂Becoming the Best Person You Can Be＂ Sep⧸29⧸13.mp3</guid>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:54:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Acclaimed Singer and Songwriter Yosef Karduner live for CHAZAQ!</title>
-      <description>Acclaimed Singer and Songwriter Yosef Karduner live for CHAZAQ!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Acclaimed%20Singer%20and%20Songwriter%20Yosef%20Karduner%20live%20for%20CHAZAQ%21.mp3" length="124984365" type="audio/mpeg"/>
-      <guid isPermaLink="false">Acclaimed Singer and Songwriter Yosef Karduner live for CHAZAQ!.mp3</guid>
-      <pubDate>Wed, 23 Oct 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>02:10:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂Dating and Marriage＂ with Rabbi Benzion Shafier from ＂The Shmuz＂</title>
-      <description>＂Dating and Marriage＂ with Rabbi Benzion Shafier from ＂The Shmuz＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82Dating%20and%20Marriage%EF%BC%82%20with%20Rabbi%20Benzion%20Shafier%20from%20%EF%BC%82The%20Shmuz%EF%BC%82.mp3" length="49002285" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂Dating and Marriage＂ with Rabbi Benzion Shafier from ＂The Shmuz＂.mp3</guid>
-      <pubDate>Mon, 04 Nov 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>00:51:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Must Watch!!! CHAZAQ event with Rabbi Shalom Arush (Hebrew) and Rabbi Lazer Brody (English)</title>
-      <description>Must Watch!!! CHAZAQ event with Rabbi Shalom Arush (Hebrew) and Rabbi Lazer Brody (English)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Must%20Watch%21%21%21%20CHAZAQ%20event%20with%20Rabbi%20Shalom%20Arush%20%28Hebrew%29%20and%20Rabbi%20Lazer%20Brody%20%28English%29.mp3" length="129183789" type="audio/mpeg"/>
-      <guid isPermaLink="false">Must Watch!!! CHAZAQ event with Rabbi Shalom Arush (Hebrew) and Rabbi Lazer Brody (English).mp3</guid>
-      <pubDate>Wed, 13 Nov 2013 00:00:00 -0000</pubDate>
-      <itunes:duration>02:14:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>CHAZAQ Event on ＂Making Marriage Special＂ with R' Paysach Krohn along with his son R' Eliezer Krohn!</title>
       <description>CHAZAQ Event on ＂Making Marriage Special＂ with R' Paysach Krohn along with his son R' Eliezer Krohn!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20on%20%EF%BC%82Making%20Marriage%20Special%EF%BC%82%20with%20R%27%20Paysach%20Krohn%20along%20with%20his%20son%20R%27%20Eliezer%20Krohn%21.mp3" length="79564461" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20on%20%EF%BC%82Making%20Marriage%20Special%EF%BC%82%20with%20R%27%20Paysach%20Krohn%20along%20with%20his%20son%20R%27%20Eliezer%20Krohn%21.mp3" length="79564461" type="audio/mpeg" />
       <guid isPermaLink="false">CHAZAQ Event on ＂Making Marriage Special＂ with R' Paysach Krohn along with his son R' Eliezer Krohn!.mp3</guid>
       <pubDate>Thu, 21 Nov 2013 00:00:00 -0000</pubDate>
       <itunes:duration>01:22:52</itunes:duration>
@@ -142,757 +34,73 @@
     <item>
       <title>Rabbi Paysach Krohn speaking at the Holocoust Memorial Event (Yom HaKaddish Haklali) in Queens</title>
       <description>Rabbi Paysach Krohn speaking at the Holocoust Memorial Event (Yom HaKaddish Haklali) in Queens</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20speaking%20at%20the%20Holocoust%20Memorial%20Event%20%28Yom%20HaKaddish%20Haklali%29%20in%20Queens.mp3" length="35304237" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20speaking%20at%20the%20Holocoust%20Memorial%20Event%20%28Yom%20HaKaddish%20Haklali%29%20in%20Queens.mp3" length="35304237" type="audio/mpeg" />
       <guid isPermaLink="false">Rabbi Paysach Krohn speaking at the Holocoust Memorial Event (Yom HaKaddish Haklali) in Queens.mp3</guid>
       <pubDate>Mon, 23 Dec 2013 00:00:00 -0000</pubDate>
       <itunes:duration>00:36:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>CHAZAQ Event with Charlie Harary on ＂The Secrets to getting your Prayers Answered!＂</title>
-      <description>CHAZAQ Event with Charlie Harary on ＂The Secrets to getting your Prayers Answered!＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20with%20Charlie%20Harary%20on%20%EF%BC%82The%20Secrets%20to%20getting%20your%20Prayers%20Answered%21%EF%BC%82.mp3" length="52409133" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Event with Charlie Harary on ＂The Secrets to getting your Prayers Answered!＂.mp3</guid>
-      <pubDate>Wed, 08 Jan 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>00:54:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Uri Zohar speaking about his Life plus Questions &amp; Answers session - ENGLISH lecture!</title>
-      <description>R' Uri Zohar speaking about his Life plus Questions &amp; Answers session - ENGLISH lecture!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Uri%20Zohar%20speaking%20about%20his%20Life%20plus%20Questions%20%26%20Answers%20session%20-%20ENGLISH%20lecture%21.mp3" length="77887917" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Uri Zohar speaking about his Life plus Questions &amp; Answers session - ENGLISH lecture!.mp3</guid>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:21:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbanit Yemima Mizrachi live for the CHAZAQ Women's Division on ＂The Secret to Real Happiness＂</title>
-      <description>Rabbanit Yemima Mizrachi live for the CHAZAQ Women's Division on ＂The Secret to Real Happiness＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbanit%20Yemima%20Mizrachi%20live%20for%20the%20CHAZAQ%20Women%27s%20Division%20on%20%EF%BC%82The%20Secret%20to%20Real%20Happiness%EF%BC%82.mp3" length="42791853" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbanit Yemima Mizrachi live for the CHAZAQ Women's Division on ＂The Secret to Real Happiness＂.mp3</guid>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>00:44:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>CHAZAQ Event on ＂Making Everyday Count＂ with R' Paysach Krohn! Intro by R' Yaniv Meirov</title>
       <description>CHAZAQ Event on ＂Making Everyday Count＂ with R' Paysach Krohn! Intro by R' Yaniv Meirov</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20on%20%EF%BC%82Making%20Everyday%20Count%EF%BC%82%20with%20R%27%20Paysach%20Krohn%21%20Intro%20by%20R%27%20Yaniv%20Meirov.mp3" length="64802733" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20on%20%EF%BC%82Making%20Everyday%20Count%EF%BC%82%20with%20R%27%20Paysach%20Krohn%21%20Intro%20by%20R%27%20Yaniv%20Meirov.mp3" length="64802733" type="audio/mpeg" />
       <guid isPermaLink="false">CHAZAQ Event on ＂Making Everyday Count＂ with R' Paysach Krohn! Intro by R' Yaniv Meirov.mp3</guid>
       <pubDate>Wed, 14 May 2014 00:00:00 -0000</pubDate>
       <itunes:duration>01:07:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Inspiring Event with Eyal Yifrach's Roommate and R' Mordechai Becher... POWERFUL!!!</title>
-      <description>Inspiring Event with Eyal Yifrach's Roommate and R' Mordechai Becher... POWERFUL!!!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Inspiring%20Event%20with%20Eyal%20Yifrach%27s%20Roommate%20and%20R%27%20Mordechai%20Becher...%20POWERFUL%21%21%21.mp3" length="76009364" type="audio/mpeg"/>
-      <guid isPermaLink="false">Inspiring Event with Eyal Yifrach's Roommate and R' Mordechai Becher... POWERFUL!!!.mp3</guid>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:19:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlie Harary speaking for CHAZAQ on ＂Our Path to Personal Greatness＂</title>
-      <description>Charlie Harary speaking for CHAZAQ on ＂Our Path to Personal Greatness＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlie%20Harary%20speaking%20for%20CHAZAQ%20on%20%EF%BC%82Our%20Path%20to%20Personal%20Greatness%EF%BC%82.mp3" length="71932077" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlie Harary speaking for CHAZAQ on ＂Our Path to Personal Greatness＂.mp3</guid>
-      <pubDate>Wed, 06 Aug 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:14:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Dovid Orlofsky being interviewed by R' Yaniv Meirov from CHAZAQ</title>
-      <description>R' Dovid Orlofsky being interviewed by R' Yaniv Meirov from CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Dovid%20Orlofsky%20being%20interviewed%20by%20R%27%20Yaniv%20Meirov%20from%20CHAZAQ.mp3" length="65122605" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Dovid Orlofsky being interviewed by R' Yaniv Meirov from CHAZAQ.mp3</guid>
-      <pubDate>Wed, 06 Aug 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:07:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ Concert with the Renowned Ari Goldwag ＂Am Echad＂ ＂Yesh Tikvah＂</title>
-      <description>CHAZAQ Concert with the Renowned Ari Goldwag ＂Am Echad＂ ＂Yesh Tikvah＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Concert%20with%20the%20Renowned%20Ari%20Goldwag%20%EF%BC%82Am%20Echad%EF%BC%82%20%EF%BC%82Yesh%20Tikvah%EF%BC%82.mp3" length="90247979" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Concert with the Renowned Ari Goldwag ＂Am Echad＂ ＂Yesh Tikvah＂.mp3</guid>
-      <pubDate>Thu, 14 Aug 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:34:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂My Life After Death Experience＂ with Alon Anava</title>
-      <description>＂My Life After Death Experience＂ with Alon Anava</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82My%20Life%20After%20Death%20Experience%EF%BC%82%20with%20Alon%20Anava.mp3" length="123773739" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂My Life After Death Experience＂ with Alon Anava.mp3</guid>
-      <pubDate>Sun, 05 Oct 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>02:08:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Full Uncle Moishy CHAZAQ Show with Mordy, Cousin Nachum, the Mitzvah Men and Uncle Moishy!</title>
-      <description>Full Uncle Moishy CHAZAQ Show with Mordy, Cousin Nachum, the Mitzvah Men and Uncle Moishy!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Full%20Uncle%20Moishy%20CHAZAQ%20Show%20with%20Mordy%2C%20Cousin%20Nachum%2C%20the%20Mitzvah%20Men%20and%20Uncle%20Moishy%21.mp3" length="65825709" type="audio/mpeg"/>
-      <guid isPermaLink="false">Full Uncle Moishy CHAZAQ Show with Mordy, Cousin Nachum, the Mitzvah Men and Uncle Moishy!.mp3</guid>
-      <pubDate>Tue, 28 Oct 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:08:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Moshe Meir Weiss shiur on ＂Been There Done That＂</title>
-      <description>Rabbi Moshe Meir Weiss shiur on ＂Been There Done That＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Moshe%20Meir%20Weiss%20shiur%20on%20%EF%BC%82Been%20There%20Done%20That%EF%BC%82.mp3" length="56884269" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Moshe Meir Weiss shiur on ＂Been There Done That＂.mp3</guid>
-      <pubDate>Tue, 28 Oct 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>00:59:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ Concert with Yosef Karduner!</title>
-      <description>CHAZAQ Concert with Yosef Karduner!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Concert%20with%20Yosef%20Karduner%21.mp3" length="106306605" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Concert with Yosef Karduner!.mp3</guid>
-      <pubDate>Wed, 12 Nov 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:50:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Tovia Singer speaking about his vital work plus Questions &amp; Answers session</title>
-      <description>R' Tovia Singer speaking about his vital work plus Questions &amp; Answers session</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Tovia%20Singer%20speaking%20about%20his%20vital%20work%20plus%20Questions%20%26%20Answers%20session.mp3" length="110965293" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Tovia Singer speaking about his vital work plus Questions &amp; Answers session.mp3</guid>
-      <pubDate>Mon, 24 Nov 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:55:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rav Shalom Arush הרב שלום ארוש live for CHAZAQ!!! HEBREW Shiur!</title>
-      <description>Rav Shalom Arush הרב שלום ארוש live for CHAZAQ!!! HEBREW Shiur!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rav%20Shalom%20Arush%20%D7%94%D7%A8%D7%91%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%90%D7%A8%D7%95%D7%A9%20live%20for%20CHAZAQ%21%21%21%20HEBREW%20Shiur%21.mp3" length="104526381" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rav Shalom Arush הרב שלום ארוש live for CHAZAQ!!! HEBREW Shiur!.mp3</guid>
-      <pubDate>Thu, 27 Nov 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:48:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Shalom Arush in ENGLISH with R' Lazer Brody voice! Check it out!</title>
-      <description>R' Shalom Arush in ENGLISH with R' Lazer Brody voice! Check it out!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Shalom%20Arush%20in%20ENGLISH%20with%20R%27%20Lazer%20Brody%20voice%21%20Check%20it%20out%21.mp3" length="93372717" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Shalom Arush in ENGLISH with R' Lazer Brody voice! Check it out!.mp3</guid>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>01:37:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>AMAZING Charlie Harary interview by CHAZAQ</title>
-      <description>AMAZING Charlie Harary interview by CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/AMAZING%20Charlie%20Harary%20interview%20by%20CHAZAQ.mp3" length="28758189" type="audio/mpeg"/>
-      <guid isPermaLink="false">AMAZING Charlie Harary interview by CHAZAQ.mp3</guid>
-      <pubDate>Mon, 22 Dec 2014 00:00:00 -0000</pubDate>
-      <itunes:duration>00:29:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Lecture by Rabbi Dovid Forman</title>
-      <description>Lecture by Rabbi Dovid Forman</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Lecture%20by%20Rabbi%20Dovid%20Forman.mp3" length="74633901" type="audio/mpeg"/>
-      <guid isPermaLink="false">Lecture by Rabbi Dovid Forman.mp3</guid>
-      <pubDate>Sun, 25 Jan 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:17:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Full CHAZAQ Uncle Moishy Show with Cousin Nachum, the Mitzvah Men and Uncle Moishy!</title>
-      <description>Full CHAZAQ Uncle Moishy Show with Cousin Nachum, the Mitzvah Men and Uncle Moishy!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Full%20CHAZAQ%20Uncle%20Moishy%20Show%20with%20Cousin%20Nachum%2C%20the%20Mitzvah%20Men%20and%20Uncle%20Moishy%21.mp3" length="76772013" type="audio/mpeg"/>
-      <guid isPermaLink="false">Full CHAZAQ Uncle Moishy Show with Cousin Nachum, the Mitzvah Men and Uncle Moishy!.mp3</guid>
-      <pubDate>Thu, 19 Mar 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:19:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Hebrew lecture by R' Michael Lasri ＂הרב מיכאל לסרי הרצאה מצחיקה ביותר על ＂למה האישה תמיד צודקת</title>
-      <description>Hebrew lecture by R' Michael Lasri ＂הרב מיכאל לסרי הרצאה מצחיקה ביותר על ＂למה האישה תמיד צודקת</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Hebrew%20lecture%20by%20R%27%20Michael%20Lasri%20%EF%BC%82%D7%94%D7%A8%D7%91%20%D7%9E%D7%99%D7%9B%D7%90%D7%9C%20%D7%9C%D7%A1%D7%A8%D7%99%20%D7%94%D7%A8%D7%A6%D7%90%D7%94%20%D7%9E%D7%A6%D7%97%D7%99%D7%A7%D7%94%20%D7%91%D7%99%D7%95%D7%AA%D7%A8%20%D7%A2%D7%9C%20%EF%BC%82%D7%9C%D7%9E%D7%94%20%D7%94%D7%90%D7%99%D7%A9%D7%94%20%D7%AA%D7%9E%D7%99%D7%93%20%D7%A6%D7%95%D7%93%D7%A7%D7%AA.mp3" length="58188838" type="audio/mpeg"/>
-      <guid isPermaLink="false">Hebrew lecture by R' Michael Lasri ＂הרב מיכאל לסרי הרצאה מצחיקה ביותר על ＂למה האישה תמיד צודקת.mp3</guid>
-      <pubDate>Fri, 20 Mar 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>8th Day, Uncle Moishy, Bello and Mordechai at CHAZAQ Concert!</title>
-      <description>8th Day, Uncle Moishy, Bello and Mordechai at CHAZAQ Concert!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/8th%20Day%2C%20Uncle%20Moishy%2C%20Bello%20and%20Mordechai%20at%20CHAZAQ%20Concert%21.mp3" length="91999149" type="audio/mpeg"/>
-      <guid isPermaLink="false">8th Day, Uncle Moishy, Bello and Mordechai at CHAZAQ Concert!.mp3</guid>
-      <pubDate>Thu, 07 May 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:35:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>R' Paysach Krohn ＂Peace in the Home＂ Shalom Workshops &amp; CHAZAQ Event</title>
       <description>R' Paysach Krohn ＂Peace in the Home＂ Shalom Workshops &amp; CHAZAQ Event</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Paysach%20Krohn%20%EF%BC%82Peace%20in%20the%20Home%EF%BC%82%20Shalom%20Workshops%20%26%20CHAZAQ%20Event.mp3" length="31215789" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Paysach%20Krohn%20%EF%BC%82Peace%20in%20the%20Home%EF%BC%82%20Shalom%20Workshops%20%26%20CHAZAQ%20Event.mp3" length="31215789" type="audio/mpeg" />
       <guid isPermaLink="false">R' Paysach Krohn ＂Peace in the Home＂ Shalom Workshops &amp; CHAZAQ Event.mp3</guid>
       <pubDate>Thu, 21 May 2015 00:00:00 -0000</pubDate>
       <itunes:duration>00:32:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>R' Reuven Epstein on ＂Making a Great Marriage Better＂</title>
-      <description>R' Reuven Epstein on ＂Making a Great Marriage Better＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Reuven%20Epstein%20on%20%EF%BC%82Making%20a%20Great%20Marriage%20Better%EF%BC%82.mp3" length="41234349" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Reuven Epstein on ＂Making a Great Marriage Better＂.mp3</guid>
-      <pubDate>Thu, 11 Jun 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:42:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rav Shaya Cohen on ＂Rising Above the Challenges of Life and Flourishing＂</title>
-      <description>Rav Shaya Cohen on ＂Rising Above the Challenges of Life and Flourishing＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rav%20Shaya%20Cohen%20on%20%EF%BC%82Rising%20Above%20the%20Challenges%20of%20Life%20and%20Flourishing%EF%BC%82.mp3" length="50312109" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rav Shaya Cohen on ＂Rising Above the Challenges of Life and Flourishing＂.mp3</guid>
-      <pubDate>Thu, 18 Jun 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:52:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Zecharia Wallerstein on 'Rationalizing' Simply AMAZING!!!</title>
-      <description>R' Zecharia Wallerstein on 'Rationalizing' Simply AMAZING!!!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Zecharia%20Wallerstein%20on%20%27Rationalizing%27%20Simply%20AMAZING%21%21%21.mp3" length="61047597" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Zecharia Wallerstein on 'Rationalizing' Simply AMAZING!!!.mp3</guid>
-      <pubDate>Fri, 19 Jun 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:03:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Hebrew lecture by R' Avner Kavas הרב אבנר קוואס בנושא שלום בית</title>
-      <description>Hebrew lecture by R' Avner Kavas הרב אבנר קוואס בנושא שלום בית</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Hebrew%20lecture%20by%20R%27%20Avner%20Kavas%20%D7%94%D7%A8%D7%91%20%D7%90%D7%91%D7%A0%D7%A8%20%D7%A7%D7%95%D7%95%D7%90%D7%A1%20%D7%91%D7%A0%D7%95%D7%A9%D7%90%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%91%D7%99%D7%AA.mp3" length="98957997" type="audio/mpeg"/>
-      <guid isPermaLink="false">Hebrew lecture by R' Avner Kavas הרב אבנר קוואס בנושא שלום בית.mp3</guid>
-      <pubDate>Tue, 23 Jun 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:43:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂How Laughter Gets Us Through Tough Times＂ with R' YY Rubinstein at CHAZAQ!</title>
-      <description>＂How Laughter Gets Us Through Tough Times＂ with R' YY Rubinstein at CHAZAQ!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82How%20Laughter%20Gets%20Us%20Through%20Tough%20Times%EF%BC%82%20with%20R%27%20YY%20Rubinstein%20at%20CHAZAQ%21.mp3" length="46793517" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂How Laughter Gets Us Through Tough Times＂ with R' YY Rubinstein at CHAZAQ!.mp3</guid>
-      <pubDate>Wed, 12 Aug 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:48:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>Inspiring lecture by R' Paysach Krohn for CHAZAQ!</title>
       <description>Inspiring lecture by R' Paysach Krohn for CHAZAQ!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Inspiring%20lecture%20by%20R%27%20Paysach%20Krohn%20for%20CHAZAQ%21.mp3" length="76203693" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Inspiring%20lecture%20by%20R%27%20Paysach%20Krohn%20for%20CHAZAQ%21.mp3" length="76203693" type="audio/mpeg" />
       <guid isPermaLink="false">Inspiring lecture by R' Paysach Krohn for CHAZAQ!.mp3</guid>
       <pubDate>Wed, 02 Sep 2015 00:00:00 -0000</pubDate>
       <itunes:duration>01:19:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Perl Abromowitz speaking on ＂Shalom Bayis＂ for the Chazaq Womens Division</title>
-      <description>Perl Abromowitz speaking on ＂Shalom Bayis＂ for the Chazaq Womens Division</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Perl%20Abromowitz%20speaking%20on%20%EF%BC%82Shalom%20Bayis%EF%BC%82%20for%20the%20Chazaq%20Womens%20Division.mp3" length="54533421" type="audio/mpeg"/>
-      <guid isPermaLink="false">Perl Abromowitz speaking on ＂Shalom Bayis＂ for the Chazaq Womens Division.mp3</guid>
-      <pubDate>Fri, 02 Oct 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:56:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂God Runs the World＂ POWERFUL lecture by Rabbi Ilan Meirov of Chazaq</title>
-      <description>＂God Runs the World＂ POWERFUL lecture by Rabbi Ilan Meirov of Chazaq</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82God%20Runs%20the%20World%EF%BC%82%20POWERFUL%20lecture%20by%20Rabbi%20Ilan%20Meirov%20of%20Chazaq.mp3" length="55720749" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂God Runs the World＂ POWERFUL lecture by Rabbi Ilan Meirov of Chazaq.mp3</guid>
-      <pubDate>Tue, 20 Oct 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:58:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Chazaq event with Dr. Dovid Lieberman on Bechira ⧸ Free Will</title>
-      <description>Chazaq event with Dr. Dovid Lieberman on Bechira ⧸ Free Will</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Chazaq%20event%20with%20Dr.%20Dovid%20Lieberman%20on%20Bechira%20%E2%A7%B8%20Free%20Will.mp3" length="55562157" type="audio/mpeg"/>
-      <guid isPermaLink="false">Chazaq event with Dr. Dovid Lieberman on Bechira ⧸ Free Will.mp3</guid>
-      <pubDate>Thu, 22 Oct 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>00:57:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Inaudible - R' Shimon Kessin on “Is Mashiach Here？” (Put Volume High)</title>
-      <description>Inaudible - R' Shimon Kessin on “Is Mashiach Here？” (Put Volume High)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Inaudible%20-%20R%27%20Shimon%20Kessin%20on%20%E2%80%9CIs%20Mashiach%20Here%EF%BC%9F%E2%80%9D%20%28Put%20Volume%20High%29.mp3" length="82204461" type="audio/mpeg"/>
-      <guid isPermaLink="false">Inaudible - R' Shimon Kessin on “Is Mashiach Here？” (Put Volume High).mp3</guid>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:25:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Alon Anava on ＂My Life After Death Experience＂</title>
-      <description>R' Alon Anava on ＂My Life After Death Experience＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Alon%20Anava%20on%20%EF%BC%82My%20Life%20After%20Death%20Experience%EF%BC%82.mp3" length="81808557" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Alon Anava on ＂My Life After Death Experience＂.mp3</guid>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:25:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Ofer Erez on Redemption ＂Geula＂ גאולה (Hebrew lecture) הרב עופר ארז שליט＂א</title>
-      <description>R' Ofer Erez on Redemption ＂Geula＂ גאולה (Hebrew lecture) הרב עופר ארז שליט＂א</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Ofer%20Erez%20on%20Redemption%20%EF%BC%82Geula%EF%BC%82%20%D7%92%D7%90%D7%95%D7%9C%D7%94%20%28Hebrew%20lecture%29%20%D7%94%D7%A8%D7%91%20%D7%A2%D7%95%D7%A4%D7%A8%20%D7%90%D7%A8%D7%96%20%D7%A9%D7%9C%D7%99%D7%98%EF%BC%82%D7%90.mp3" length="68471085" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Ofer Erez on Redemption ＂Geula＂ גאולה (Hebrew lecture) הרב עופר ארז שליט＂א.mp3</guid>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:11:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Twins From France, Uncle Moishy &amp; Cousin Nachum @ CHAZAQ Sukkos Show</title>
-      <description>The Twins From France, Uncle Moishy &amp; Cousin Nachum @ CHAZAQ Sukkos Show</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/The%20Twins%20From%20France%2C%20Uncle%20Moishy%20%26%20Cousin%20Nachum%20%40%20CHAZAQ%20Sukkos%20Show.mp3" length="104201901" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Twins From France, Uncle Moishy &amp; Cousin Nachum @ CHAZAQ Sukkos Show.mp3</guid>
-      <pubDate>Thu, 05 Nov 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:48:32</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ Event with R' Dovid Orlofsky on the ＂Power of Kindness⧸Chesed＂</title>
-      <description>CHAZAQ Event with R' Dovid Orlofsky on the ＂Power of Kindness⧸Chesed＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20Event%20with%20R%27%20Dovid%20Orlofsky%20on%20the%20%EF%BC%82Power%20of%20Kindness%E2%A7%B8Chesed%EF%BC%82.mp3" length="62455341" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ Event with R' Dovid Orlofsky on the ＂Power of Kindness⧸Chesed＂.mp3</guid>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:05:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rebbe Alter's Children's Chanukah Concert!</title>
-      <description>Rebbe Alter's Children's Chanukah Concert!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rebbe%20Alter%27s%20Children%27s%20Chanukah%20Concert%21.mp3" length="85824813" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rebbe Alter's Children's Chanukah Concert!.mp3</guid>
-      <pubDate>Mon, 28 Dec 2015 00:00:00 -0000</pubDate>
-      <itunes:duration>01:29:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂Attitude of Gratitude＂ by Tzipi Caton for the Chazaq Women's Division</title>
-      <description>＂Attitude of Gratitude＂ by Tzipi Caton for the Chazaq Women's Division</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82Attitude%20of%20Gratitude%EF%BC%82%20by%20Tzipi%20Caton%20for%20the%20Chazaq%20Women%27s%20Division.mp3" length="55696173" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂Attitude of Gratitude＂ by Tzipi Caton for the Chazaq Women's Division.mp3</guid>
-      <pubDate>Thu, 04 Feb 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>00:58:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Yissochar Frand speaking for Chazaq on “2 Millennia of Exile and the Lessons for Eternity”</title>
-      <description>R' Yissochar Frand speaking for Chazaq on “2 Millennia of Exile and the Lessons for Eternity”</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Yissochar%20Frand%20speaking%20for%20Chazaq%20on%20%E2%80%9C2%20Millennia%20of%20Exile%20and%20the%20Lessons%20for%20Eternity%E2%80%9D.mp3" length="61198125" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Yissochar Frand speaking for Chazaq on “2 Millennia of Exile and the Lessons for Eternity”.mp3</guid>
-      <pubDate>Sun, 07 Feb 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>01:03:44</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>R' Daniel Mechanic speaking for Chazaq on ＂They Have Questions - You Need Answers＂</title>
-      <description>R' Daniel Mechanic speaking for Chazaq on ＂They Have Questions - You Need Answers＂</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/R%27%20Daniel%20Mechanic%20speaking%20for%20Chazaq%20on%20%EF%BC%82They%20Have%20Questions%20-%20You%20Need%20Answers%EF%BC%82.mp3" length="77161389" type="audio/mpeg"/>
-      <guid isPermaLink="false">R' Daniel Mechanic speaking for Chazaq on ＂They Have Questions - You Need Answers＂.mp3</guid>
-      <pubDate>Wed, 17 Feb 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>01:20:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>AMAZING lecture by R' Paysach Krohn!</title>
       <description>AMAZING lecture by R' Paysach Krohn!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/AMAZING%20lecture%20by%20R%27%20Paysach%20Krohn%21.mp3" length="60495789" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/AMAZING%20lecture%20by%20R%27%20Paysach%20Krohn%21.mp3" length="60495789" type="audio/mpeg" />
       <guid isPermaLink="false">AMAZING lecture by R' Paysach Krohn!.mp3</guid>
       <pubDate>Sun, 10 Apr 2016 00:00:00 -0000</pubDate>
       <itunes:duration>01:03:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>＂Bring in the Clowns… the Election and the Torah＂ by R' YY Rubinstein for CHAZAQ!</title>
-      <description>＂Bring in the Clowns… the Election and the Torah＂ by R' YY Rubinstein for CHAZAQ!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82Bring%20in%20the%20Clowns%E2%80%A6%20the%20Election%20and%20the%20Torah%EF%BC%82%20by%20R%27%20YY%20Rubinstein%20for%20CHAZAQ%21.mp3" length="53169069" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂Bring in the Clowns… the Election and the Torah＂ by R' YY Rubinstein for CHAZAQ!.mp3</guid>
-      <pubDate>Mon, 11 Jul 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>00:55:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Nissim Black Tells Over His Amazing Journey to Judaism</title>
-      <description>Nissim Black Tells Over His Amazing Journey to Judaism</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Nissim%20Black%20Tells%20Over%20His%20Amazing%20Journey%20to%20Judaism.mp3" length="54005805" type="audio/mpeg"/>
-      <guid isPermaLink="false">Nissim Black Tells Over His Amazing Journey to Judaism.mp3</guid>
-      <pubDate>Thu, 14 Jul 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>00:56:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרב יגאל כהן ＂כך נזכה לשנה טובה＂ ארגון חזק</title>
-      <description>הרב יגאל כהן ＂כך נזכה לשנה טובה＂ ארגון חזק</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%D7%94%D7%A8%D7%91%20%D7%99%D7%92%D7%90%D7%9C%20%D7%9B%D7%94%D7%9F%20%EF%BC%82%D7%9B%D7%9A%20%D7%A0%D7%96%D7%9B%D7%94%20%D7%9C%D7%A9%D7%A0%D7%94%20%D7%98%D7%95%D7%91%D7%94%EF%BC%82%20%D7%90%D7%A8%D7%92%D7%95%D7%9F%20%D7%97%D7%96%D7%A7.mp3" length="83218221" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרב יגאל כהן ＂כך נזכה לשנה טובה＂ ארגון חזק.mp3</guid>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 -0000</pubDate>
-      <itunes:duration>01:26:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rav Yigal Cohen on Emunah ארגון חזק הרב יגאל כהן</title>
-      <description>Rav Yigal Cohen on Emunah ארגון חזק הרב יגאל כהן</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rav%20Yigal%20Cohen%20on%20Emunah%20%D7%90%D7%A8%D7%92%D7%95%D7%9F%20%D7%97%D7%96%D7%A7%20%D7%94%D7%A8%D7%91%20%D7%99%D7%92%D7%90%D7%9C%20%D7%9B%D7%94%D7%9F.mp3" length="84863411" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rav Yigal Cohen on Emunah ארגון חזק הרב יגאל כהן.mp3</guid>
-      <pubDate>Wed, 22 Nov 2017 00:00:00 -0000</pubDate>
-      <itunes:duration>01:28:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Three Weeks： Change the World - Rabbi David Orlofsky speaking for CHAZAQ!</title>
-      <description>The Three Weeks： Change the World - Rabbi David Orlofsky speaking for CHAZAQ!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/The%20Three%20Weeks%EF%BC%9A%20Change%20the%20World%20-%20Rabbi%20David%20Orlofsky%20speaking%20for%20CHAZAQ%21.mp3" length="58042029" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Three Weeks： Change the World - Rabbi David Orlofsky speaking for CHAZAQ!.mp3</guid>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0000</pubDate>
-      <itunes:duration>01:00:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbanit Yemima Mizrachi - The Secret to the Best Life</title>
-      <description>Rabbanit Yemima Mizrachi - The Secret to the Best Life</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbanit%20Yemima%20Mizrachi%20-%20The%20Secret%20to%20the%20Best%20Life.mp3" length="61272621" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbanit Yemima Mizrachi - The Secret to the Best Life.mp3</guid>
-      <pubDate>Thu, 07 Mar 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>01:03:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>Words of Inspiration - Rabbi Paysach Krohn</title>
       <description>Words of Inspiration - Rabbi Paysach Krohn</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Words%20of%20Inspiration%20-%20Rabbi%20Paysach%20Krohn.mp3" length="18312621" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Words%20of%20Inspiration%20-%20Rabbi%20Paysach%20Krohn.mp3" length="18312621" type="audio/mpeg" />
       <guid isPermaLink="false">Words of Inspiration - Rabbi Paysach Krohn.mp3</guid>
       <pubDate>Tue, 09 Apr 2019 00:00:00 -0000</pubDate>
       <itunes:duration>00:19:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Charlene Aminoff - The Power of a Mikvah</title>
-      <description>Charlene Aminoff - The Power of a Mikvah</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlene%20Aminoff%20-%20The%20Power%20of%20a%20Mikvah.mp3" length="12942765" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlene Aminoff - The Power of a Mikvah.mp3</guid>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>00:13:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shlissel Challah Experience with Charlene Aminoff</title>
-      <description>Shlissel Challah Experience with Charlene Aminoff</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Shlissel%20Challah%20Experience%20with%20Charlene%20Aminoff.mp3" length="41298861" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shlissel Challah Experience with Charlene Aminoff.mp3</guid>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>00:43:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi David Ashear -  How to Achieve Emunah</title>
-      <description>Rabbi David Ashear -  How to Achieve Emunah</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20David%20Ashear%20-%20%20How%20to%20Achieve%20Emunah.mp3" length="50701485" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi David Ashear -  How to Achieve Emunah.mp3</guid>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>00:52:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Yossi Bensoussan - God Runs The World But I Run My Life</title>
-      <description>Rabbi Yossi Bensoussan - God Runs The World But I Run My Life</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Yossi%20Bensoussan%20-%20God%20Runs%20The%20World%20But%20I%20Run%20My%20Life.mp3" length="51001389" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Yossi Bensoussan - God Runs The World But I Run My Life.mp3</guid>
-      <pubDate>Wed, 24 Jul 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>00:53:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרב יגאל כהן – שיעור מדהים</title>
-      <description>הרב יגאל כהן – שיעור מדהים</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%D7%94%D7%A8%D7%91%20%D7%99%D7%92%D7%90%D7%9C%20%D7%9B%D7%94%D7%9F%20%E2%80%93%20%D7%A9%D7%99%D7%A2%D7%95%D7%A8%20%D7%9E%D7%93%D7%94%D7%99%D7%9D.mp3" length="83668269" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרב יגאל כהן – שיעור מדהים.mp3</guid>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>01:27:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Meir Eliyahu – חיזוק בתלמוד תורה</title>
-      <description>Rabbi Meir Eliyahu – חיזוק בתלמוד תורה</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Meir%20Eliyahu%20%E2%80%93%20%D7%97%D7%99%D7%96%D7%95%D7%A7%20%D7%91%D7%AA%D7%9C%D7%9E%D7%95%D7%93%20%D7%AA%D7%95%D7%A8%D7%94.mp3" length="59962413" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Meir Eliyahu – חיזוק בתלמוד תורה.mp3</guid>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>01:02:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Shalom Arush (With English Translation) - Truth &amp; Faith Is Our Future</title>
-      <description>Rabbi Shalom Arush (With English Translation) - Truth &amp; Faith Is Our Future</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Shalom%20Arush%20%28With%20English%20Translation%29%20-%20Truth%20%26%20Faith%20Is%20Our%20Future.mp3" length="85051053" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Shalom Arush (With English Translation) - Truth &amp; Faith Is Our Future.mp3</guid>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 -0000</pubDate>
-      <itunes:duration>01:28:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Abraham J. Twerski： True Freedom</title>
-      <description>Rabbi Abraham J. Twerski： True Freedom</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Abraham%20J.%20Twerski%EF%BC%9A%20True%20Freedom.mp3" length="17433645" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Abraham J. Twerski： True Freedom.mp3</guid>
-      <pubDate>Thu, 04 Feb 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>00:18:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Jonathan Rietti： if poison can kill my body, what can poisonous thinking do to my mind？</title>
-      <description>Rabbi Jonathan Rietti： if poison can kill my body, what can poisonous thinking do to my mind？</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Jonathan%20Rietti%EF%BC%9A%20if%20poison%20can%20kill%20my%20body%2C%20what%20can%20poisonous%20thinking%20do%20to%20my%20mind%EF%BC%9F.mp3" length="46511661" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Jonathan Rietti： if poison can kill my body, what can poisonous thinking do to my mind？.mp3</guid>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>00:48:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi David Ashear： Living Emunah 5</title>
-      <description>Rabbi David Ashear： Living Emunah 5</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20David%20Ashear%EF%BC%9A%20Living%20Emunah%205.mp3" length="44814381" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi David Ashear： Living Emunah 5.mp3</guid>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>00:46:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Zechariah Wallerstein - Shidduchim During the Pandemic</title>
-      <description>Rabbi Zechariah Wallerstein - Shidduchim During the Pandemic</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Zechariah%20Wallerstein%20-%20Shidduchim%20During%20the%20Pandemic.mp3" length="27949485" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Zechariah Wallerstein - Shidduchim During the Pandemic.mp3</guid>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>00:29:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlie Harary Special-Tisha B'Av message 2021</title>
-      <description>Charlie Harary Special-Tisha B'Av message 2021</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlie%20Harary%20Special-Tisha%20B%27Av%20message%202021.mp3" length="76935213" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlie Harary Special-Tisha B'Av message 2021.mp3</guid>
-      <pubDate>Tue, 27 Jul 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>01:20:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Naftali Horowitz - You Revealed： Uncover Your True Self</title>
-      <description>Naftali Horowitz - You Revealed： Uncover Your True Self</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Naftali%20Horowitz%20-%20You%20Revealed%EF%BC%9A%20Uncover%20Your%20True%20Self.mp3" length="65421741" type="audio/mpeg"/>
-      <guid isPermaLink="false">Naftali Horowitz - You Revealed： Uncover Your True Self.mp3</guid>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>01:08:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rebbetzin Raquel Kirszenbaum - Finding Meaning in Pain</title>
-      <description>Rebbetzin Raquel Kirszenbaum - Finding Meaning in Pain</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rebbetzin%20Raquel%20Kirszenbaum%20-%20Finding%20Meaning%20in%20Pain.mp3" length="69692973" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rebbetzin Raquel Kirszenbaum - Finding Meaning in Pain.mp3</guid>
-      <pubDate>Wed, 22 Dec 2021 00:00:00 -0000</pubDate>
-      <itunes:duration>01:12:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Special Russian Lecture with Rabbi Hillel Haimov</title>
-      <description>Special Russian Lecture with Rabbi Hillel Haimov</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Special%20Russian%20Lecture%20with%20Rabbi%20Hillel%20Haimov.mp3" length="68461485" type="audio/mpeg"/>
-      <guid isPermaLink="false">Special Russian Lecture with Rabbi Hillel Haimov.mp3</guid>
-      <pubDate>Thu, 26 May 2022 00:00:00 -0000</pubDate>
-      <itunes:duration>01:11:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>＂Finding True Happiness＂ - Rabbi Lazer Brody &amp; ＂The World Changes When You Do＂ - Gedale Fenster</title>
-      <description>＂Finding True Happiness＂ - Rabbi Lazer Brody &amp; ＂The World Changes When You Do＂ - Gedale Fenster</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%EF%BC%82Finding%20True%20Happiness%EF%BC%82%20-%20Rabbi%20Lazer%20Brody%20%26%20%EF%BC%82The%20World%20Changes%20When%20You%20Do%EF%BC%82%20-%20Gedale%20Fenster.mp3" length="150586797" type="audio/mpeg"/>
-      <guid isPermaLink="false">＂Finding True Happiness＂ - Rabbi Lazer Brody &amp; ＂The World Changes When You Do＂ - Gedale Fenster.mp3</guid>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 -0000</pubDate>
-      <itunes:duration>02:36:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרב ברוך רוזנבלום Rabbi Baruch Rosenblum  - A Night of Inspiration (Hebrew)</title>
-      <description>הרב ברוך רוזנבלום Rabbi Baruch Rosenblum  - A Night of Inspiration (Hebrew)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/%D7%94%D7%A8%D7%91%20%D7%91%D7%A8%D7%95%D7%9A%20%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%9C%D7%95%D7%9D%20Rabbi%20Baruch%20Rosenblum%20%20-%20A%20Night%20of%20Inspiration%20%28Hebrew%29.mp3" length="55025709" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרב ברוך רוזנבלום Rabbi Baruch Rosenblum  - A Night of Inspiration (Hebrew).mp3</guid>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:57:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>New York Boy's Choir For Everyone (Full Concert)</title>
-      <description>New York Boy's Choir For Everyone (Full Concert)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/New%20York%20Boy%27s%20Choir%20For%20Everyone%20%28Full%20Concert%29.mp3" length="99110445" type="audio/mpeg"/>
-      <guid isPermaLink="false">New York Boy's Choir For Everyone (Full Concert).mp3</guid>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>01:43:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Eli Mansour ｜ Rewarding Relationships ｜ CHAZAQ</title>
-      <description>Rabbi Eli Mansour ｜ Rewarding Relationships ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Eli%20Mansour%20%EF%BD%9C%20Rewarding%20Relationships%20%EF%BD%9C%20CHAZAQ.mp3" length="53963181" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Eli Mansour ｜ Rewarding Relationships ｜ CHAZAQ.mp3</guid>
-      <pubDate>Wed, 17 May 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:56:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ ｜ Rabbi Naftali Horowitz ｜ A Torah Path to a Life of Success</title>
-      <description>CHAZAQ ｜ Rabbi Naftali Horowitz ｜ A Torah Path to a Life of Success</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%20%EF%BD%9C%20Rabbi%20Naftali%20Horowitz%20%EF%BD%9C%20A%20Torah%20Path%20to%20a%20Life%20of%20Success.mp3" length="42937773" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ ｜ Rabbi Naftali Horowitz ｜ A Torah Path to a Life of Success.mp3</guid>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>00:44:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>EITAN KATZ ｜ Performs Uplifting Kumzitz in Support of Israel</title>
-      <description>EITAN KATZ ｜ Performs Uplifting Kumzitz in Support of Israel</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/EITAN%20KATZ%20%EF%BD%9C%20Performs%20Uplifting%20Kumzitz%20in%20Support%20of%20Israel.mp3" length="108540333" type="audio/mpeg"/>
-      <guid isPermaLink="false">EITAN KATZ ｜ Performs Uplifting Kumzitz in Support of Israel.mp3</guid>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 -0000</pubDate>
-      <itunes:duration>01:53:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Roi Assaraf ｜ Survivor Story of October 7 Massacre ｜ CHAZAQ</title>
-      <description>Roi Assaraf ｜ Survivor Story of October 7 Massacre ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Roi%20Assaraf%20%EF%BD%9C%20Survivor%20Story%20of%20October%207%20Massacre%20%EF%BD%9C%20CHAZAQ.mp3" length="57147693" type="audio/mpeg"/>
-      <guid isPermaLink="false">Roi Assaraf ｜ Survivor Story of October 7 Massacre ｜ CHAZAQ.mp3</guid>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>00:59:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbanit Hagit Shira הרבנית חגית שירה ｜ EMUNAH אמונה ｜ CHAZAQ &amp; Hidabroot (HEBREW)</title>
-      <description>Rabbanit Hagit Shira הרבנית חגית שירה ｜ EMUNAH אמונה ｜ CHAZAQ &amp; Hidabroot (HEBREW)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbanit%20Hagit%20Shira%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%97%D7%92%D7%99%D7%AA%20%D7%A9%D7%99%D7%A8%D7%94%20%EF%BD%9C%20EMUNAH%20%D7%90%D7%9E%D7%95%D7%A0%D7%94%20%EF%BD%9C%20CHAZAQ%20%26%20Hidabroot%20%28HEBREW%29.mp3" length="88334253" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbanit Hagit Shira הרבנית חגית שירה ｜ EMUNAH אמונה ｜ CHAZAQ &amp; Hidabroot (HEBREW).mp3</guid>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>01:32:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Naftali Horowitz ｜ A Torah Path to a Life of Success ｜ CHAZAQ</title>
-      <description>Naftali Horowitz ｜ A Torah Path to a Life of Success ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Naftali%20Horowitz%20%EF%BD%9C%20A%20Torah%20Path%20to%20a%20Life%20of%20Success%20%EF%BD%9C%20CHAZAQ.mp3" length="44632365" type="audio/mpeg"/>
-      <guid isPermaLink="false">Naftali Horowitz ｜ A Torah Path to a Life of Success ｜ CHAZAQ.mp3</guid>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>00:46:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>CHAZAQ's Torah Talks #141 Rabbi Berel Wein - ISRAEL： An Insiders Guide to the Current Situation</title>
-      <description>CHAZAQ's Torah Talks #141 Rabbi Berel Wein - ISRAEL： An Insiders Guide to the Current Situation</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%27s%20Torah%20Talks%20%23141%20Rabbi%20Berel%20Wein%20-%20ISRAEL%EF%BC%9A%20An%20Insiders%20Guide%20to%20the%20Current%20Situation.mp3" length="20848557" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ's Torah Talks #141 Rabbi Berel Wein - ISRAEL： An Insiders Guide to the Current Situation.mp3</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>00:21:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Naftali Horowitz ｜ The Best Investment ｜ CHAZAQ</title>
-      <description>Naftali Horowitz ｜ The Best Investment ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Naftali%20Horowitz%20%EF%BD%9C%20The%20Best%20Investment%20%EF%BD%9C%20CHAZAQ.mp3" length="35170989" type="audio/mpeg"/>
-      <guid isPermaLink="false">Naftali Horowitz ｜ The Best Investment ｜ CHAZAQ.mp3</guid>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>00:36:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Eli Mansour ｜ Pre Rosh Hashanah： Elul Inspiration ｜ CHAZAQ</title>
-      <description>Rabbi Eli Mansour ｜ Pre Rosh Hashanah： Elul Inspiration ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Eli%20Mansour%20%EF%BD%9C%20Pre%20Rosh%20Hashanah%EF%BC%9A%20Elul%20Inspiration%20%EF%BD%9C%20CHAZAQ.mp3" length="71080749" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Eli Mansour ｜ Pre Rosh Hashanah： Elul Inspiration ｜ CHAZAQ.mp3</guid>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>01:14:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>Rabbi Paysach Krohn ｜ 48 Hours Before Rosh Hashanah ｜ CHAZAQ</title>
       <description>Rabbi Paysach Krohn ｜ 48 Hours Before Rosh Hashanah ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20%EF%BD%9C%2048%20Hours%20Before%20Rosh%20Hashanah%20%EF%BD%9C%20CHAZAQ.mp3" length="64470189" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20%EF%BD%9C%2048%20Hours%20Before%20Rosh%20Hashanah%20%EF%BD%9C%20CHAZAQ.mp3" length="64470189" type="audio/mpeg" />
       <guid isPermaLink="false">Rabbi Paysach Krohn ｜ 48 Hours Before Rosh Hashanah ｜ CHAZAQ.mp3</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 -0000</pubDate>
       <itunes:duration>01:07:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>CHAZAQ's Torah Talks #178 Rabbi Moshe Yosef Friedlander - The Light of Rav Shayele Kerestir</title>
-      <description>CHAZAQ's Torah Talks #178 Rabbi Moshe Yosef Friedlander - The Light of Rav Shayele Kerestir</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/CHAZAQ%27s%20Torah%20Talks%20%23178%20Rabbi%20Moshe%20Yosef%20Friedlander%20-%20The%20Light%20of%20Rav%20Shayele%20Kerestir.mp3" length="22936365" type="audio/mpeg"/>
-      <guid isPermaLink="false">CHAZAQ's Torah Talks #178 Rabbi Moshe Yosef Friedlander - The Light of Rav Shayele Kerestir.mp3</guid>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 -0000</pubDate>
-      <itunes:duration>00:23:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Amar'e Stoudemire's Journey to Judaism ｜ CHAZAQ</title>
-      <description>Amar'e Stoudemire's Journey to Judaism ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Amar%27e%20Stoudemire%27s%20Journey%20to%20Judaism%20%EF%BD%9C%20CHAZAQ.mp3" length="16832301" type="audio/mpeg"/>
-      <guid isPermaLink="false">Amar'e Stoudemire's Journey to Judaism ｜ CHAZAQ.mp3</guid>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:17:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rabbi Eli Mansour ｜ Elevating Your Mazal ｜ CHAZAQ</title>
-      <description>Rabbi Eli Mansour ｜ Elevating Your Mazal ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Eli%20Mansour%20%EF%BD%9C%20Elevating%20Your%20Mazal%20%EF%BD%9C%20CHAZAQ.mp3" length="56925357" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rabbi Eli Mansour ｜ Elevating Your Mazal ｜ CHAZAQ.mp3</guid>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:59:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
       <title>Rabbi Paysach Krohn ｜ Emunah In Challenging Times ｜ CHAZAQ</title>
       <description>Rabbi Paysach Krohn ｜ Emunah In Challenging Times ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20%EF%BD%9C%20Emunah%20In%20Challenging%20Times%20%EF%BD%9C%20CHAZAQ.mp3" length="30968109" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Rabbi%20Paysach%20Krohn%20%EF%BD%9C%20Emunah%20In%20Challenging%20Times%20%EF%BD%9C%20CHAZAQ.mp3" length="30968109" type="audio/mpeg" />
       <guid isPermaLink="false">Rabbi Paysach Krohn ｜ Emunah In Challenging Times ｜ CHAZAQ.mp3</guid>
       <pubDate>Mon, 09 Jun 2025 00:00:00 -0000</pubDate>
       <itunes:duration>00:32:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlene Aminoff ｜ Faith Over Fear： One Woman’s Story of Miracles and Meaning ｜ CHAZAQ</title>
-      <description>Charlene Aminoff ｜ Faith Over Fear： One Woman’s Story of Miracles and Meaning ｜ CHAZAQ</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlene%20Aminoff%20%EF%BD%9C%20Faith%20Over%20Fear%EF%BC%9A%20One%20Woman%E2%80%99s%20Story%20of%20Miracles%20and%20Meaning%20%EF%BD%9C%20CHAZAQ.mp3" length="52401453" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlene Aminoff ｜ Faith Over Fear： One Woman’s Story of Miracles and Meaning ｜ CHAZAQ.mp3</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:54:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlie Harary ｜ Revealing the Light of Chanukah</title>
-      <description>Charlie Harary ｜ Revealing the Light of Chanukah</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlie%20Harary%20%EF%BD%9C%20Revealing%20the%20Light%20of%20Chanukah.mp3" length="55745709" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlie Harary ｜ Revealing the Light of Chanukah.mp3</guid>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:duration>00:58:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlie Harary： The Unlocked Haggadah</title>
-      <description>Charlie Harary： The Unlocked Haggadah</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlie%20Harary%EF%BC%9A%20The%20Unlocked%20Haggadah.mp3" length="107912877" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlie Harary： The Unlocked Haggadah.mp3</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>01:52:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Charlene Aminoff - Transforming Relationships ｜ Dedicated Lezecher Nishmat Dora bat Zilpa</title>
-      <description>Charlene Aminoff - Transforming Relationships ｜ Dedicated Lezecher Nishmat Dora bat Zilpa</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-krohn-shiurim/Charlene%20Aminoff%20-%20Transforming%20Relationships%20%EF%BD%9C%20Dedicated%20Lezecher%20Nishmat%20Dora%20bat%20Zilpa.mp3" length="42970797" type="audio/mpeg"/>
-      <guid isPermaLink="false">Charlene Aminoff - Transforming Relationships ｜ Dedicated Lezecher Nishmat Dora bat Zilpa.mp3</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 -0000</pubDate>
-      <itunes:duration>00:44:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
