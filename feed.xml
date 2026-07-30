@@ -2,7 +2,8 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Rabbi Paysach Krohn</title>
-    <description>Torah shiurim by Rabbi Paysach Krohn - Otzar HaTorah</description>
+    <description>Torah lectures and inspirational stories from Rabbi Paysach Krohn, mohel and author of the Maggid series. Shalom bayis, emunah, teshuva and the power of a good deed - recorded at CHAZAQ events - Otzar HaTorah.</description>
+    <itunes:summary>Torah lectures and inspirational stories from Rabbi Paysach Krohn, mohel and author of the Maggid series. Shalom bayis, emunah, teshuva and the power of a good deed - recorded at CHAZAQ events - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/krohn</link>
     <language>en</language>
     <itunes:author>Rabbi Paysach Krohn</itunes:author>
